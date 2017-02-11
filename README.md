@@ -14,7 +14,8 @@ My favorite things on the web
 #Image Design
 
 [Canva] (https://www.canva.com/)
-Stencil (https://getstencil.com/)
+
+[Stencil] (https://getstencil.com/)
 
 #Photo Editing
 
