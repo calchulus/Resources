@@ -19,8 +19,9 @@ My favorite things on the web
 
 #Photo Editing
 
-Nik Collection
-Instagram
+[Nik Collection] (https://www.google.com/nikcollection/)
+
+[Instagram] (instagram.com/calchulus/)
 
 #Templates
 [HTML5Up] (https://html5up.net/)
