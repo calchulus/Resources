@@ -2,6 +2,8 @@
 My favorite things on the web
 
 
-Icons
+#Icons
 
 [FlatIcon] (http://www.flaticon.com/)
+
+[Material Design Icons] (https://material.io/icons/)
