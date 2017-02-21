@@ -1,6 +1,9 @@
 # Resources
 My favorite things on the web
 
+#Email
+
+[ZohoMail] (https://mail.zoho.com/zm/)
 
 #Icons
 
