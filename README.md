@@ -17,6 +17,9 @@ My favorite things on the web
 
 [Stencil] (https://getstencil.com/)
 
+#Payment Services
+[Braintree API] (https://developers.braintreepayments.com/)
+
 #Photo Editing
 
 [Nik Collection] (https://www.google.com/nikcollection/)
@@ -27,7 +30,11 @@ My favorite things on the web
 
 [Jon Yau's Medium Blog (Owner of stockphoto.com)] (https://medium.com/@Stockphoto.com)
 
+[Pexels] (https://www.pexels.com/)
+
 [Unsplash] (https://unsplash.com/)
+
+
 
 #Templates
 [HTML5Up] (https://html5up.net/)
