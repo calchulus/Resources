@@ -23,5 +23,11 @@ My favorite things on the web
 
 [Instagram] (instagram.com/calchulus/)
 
+#Stock Photos for Free
+
+[Jon Yau's Medium Blog (Owner of stockphoto.com)] (https://medium.com/@Stockphoto.com)
+
+[Unsplash] (https://unsplash.com/)
+
 #Templates
 [HTML5Up] (https://html5up.net/)
