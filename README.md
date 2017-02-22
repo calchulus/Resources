@@ -41,7 +41,9 @@ My favorite things on the web
 
 [Unsplash] (https://unsplash.com/)
 
+[Free for Commercial Use] (http://freeforcommercialuse.net/)
 
+[Pixabay] (https://pixabay.com/)
 
 #Templates
 [HTML5Up] (https://html5up.net/)
