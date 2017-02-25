@@ -49,5 +49,14 @@ My favorite things on the web
 
 [Pixabay] (https://pixabay.com/)
 
+#Tech
+
+[Sublime Editor]
+[Atom]
+Facebook Bots
+
+
+
+
 #Templates
 [HTML5Up] (https://html5up.net/)
