@@ -52,9 +52,8 @@ My favorite things on the web
 
 #Tech
 
-[Sublime Editor]
-[Atom]
-Facebook Bots
+[Sublime Editor] (https://www.sublimetext.com/3)
+[Chatfuel for Facebook Messenger Bots] (https://dashboard.chatfuel.com/#/bots)
 
 
 #Templates
