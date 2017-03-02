@@ -58,6 +58,7 @@ My favorite things on the web
 
 #Templates
 [HTML5Up] (https://html5up.net/)
+[Free HTML5] (https://freehtml5.co/)
 
 
 #UChicago
