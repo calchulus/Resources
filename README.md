@@ -1,6 +1,12 @@
 # Resources
 My favorite things on the web
 
+#App Icons
+
+[Apple iTunes Badge] (https://developer.apple.com/app-store/marketing/guidelines/#downloadOnAppstore)
+
+[Google Play Badge] (https://play.google.com/intl/en_us/badges/)
+
 #Do Good
 
 [Tab for a Cause] (http://tab.gladly.io/)
