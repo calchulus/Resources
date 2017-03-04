@@ -32,7 +32,7 @@ My favorite things on the web
 
 [Stencil] (https://getstencil.com/)
 
-[Logomakr] (logomakr.com)
+[Logomakr] (https://logomakr.com/)
 
 #Payment Services
 [Braintree API] (https://developers.braintreepayments.com/)
@@ -60,6 +60,7 @@ My favorite things on the web
 #Tech
 
 [Sublime Editor] (https://www.sublimetext.com/3)
+
 [Chatfuel for Facebook Messenger Bots] (https://dashboard.chatfuel.com/#/bots)
 
 
