@@ -34,6 +34,8 @@ My favorite things on the web
 
 [Logomakr] (https://logomakr.com/)
 
+[Visage] (visage.co)
+
 #Payment Services
 [Braintree API] (https://developers.braintreepayments.com/)
 
