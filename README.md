@@ -7,6 +7,10 @@ My favorite things on the web
 
 [Google Play Badge] (https://play.google.com/intl/en_us/badges/)
 
+#Deals
+
+[Slickdeals] (www.slickdeals.net)
+
 #Do Good
 
 [Tab for a Cause] (http://tab.gladly.io/)
