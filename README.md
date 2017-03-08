@@ -69,9 +69,12 @@ My favorite things on the web
 
 [Chatfuel for Facebook Messenger Bots] (https://dashboard.chatfuel.com/#/bots)
 
+[Facebook Bot Resource] (https://wit.ai/blog)
+
 
 #Templates
 [HTML5Up] (https://html5up.net/)
+
 [Free HTML5] (https://freehtml5.co/)
 
 
