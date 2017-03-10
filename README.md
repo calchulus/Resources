@@ -51,6 +51,12 @@ My favorite things on the web
 
 [Instagram] (instagram.com/calchulus/)
 
+#Start Ups
+
+F6s
+
+Angel.co
+
 #Stock Photos for Free
 
 [Jon Yau's Medium Blog (Owner of stockphoto.com)] (https://medium.com/@Stockphoto.com)
