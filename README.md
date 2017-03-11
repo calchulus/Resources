@@ -57,9 +57,9 @@ My favorite things on the web
 
 #Start Ups
 
-F6s
+[F6s] (f6s.com)
 
-Angel.co
+[Angel.co] (angel.co)
 
 #Stock Photos for Free
 
