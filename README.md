@@ -21,6 +21,10 @@ My favorite things on the web
 
 [ZohoMail] (https://mail.zoho.com/zm/)
 
+#Features
+
+[Google Charts] (https://developers.google.com/chart/)
+
 #Icons
 
 [FlatIcon] (http://www.flaticon.com/)
