@@ -1,33 +1,33 @@
 # Resources
 My favorite things on the web
 
-# App Icons
+### App Icons
 
 [Apple iTunes Badge](https://developer.apple.com/app-store/marketing/guidelines/#downloadOnAppstore)
 
 [Google Play Badge](https://play.google.com/intl/en_us/badges/)
 
-# Deals
+### Deals
 
 [Slickdeals](www.slickdeals.net)
 
 [BrokeAssGourmet](www.brokeassgourmet.com)
 
-# Do Good
+### Do Good
 
 [Tab for a Cause](http://tab.gladly.io/)
 [Donate a Photo](http://donateaphoto.com/en_US)
 [FreeRice](http://freerice.com/#/english-vocabulary/1363)
 
-# Email
+### Email
 
 [ZohoMail](https://mail.zoho.com/zm/)
 
-# Features
+### Features
 
 [Google Charts](https://developers.google.com/chart/)
 
-# Icons
+### Icons
 
 [FlatIcon](http://www.flaticon.com/)
 
@@ -36,7 +36,7 @@ My favorite things on the web
 [The Noun Project](https://thenounproject.com/)
 
 
-#Image Design
+### Image Design
 
 [Canva](https://www.canva.com/)
 
@@ -49,24 +49,25 @@ My favorite things on the web
 News
 NPR
 
-#Payment Services
+### Payment Services
+
 [Braintree API](https://developers.braintreepayments.com/)
 
 [Venmo API](https://developer.venmo.com/gettingstarted/apipayment)
 
-#Photo Editing
+### Photo Editing
 
 [Nik Collection](https://www.google.com/nikcollection/)
 
 [Instagram](instagram.com/calchulus/)
 
-#Start Ups
+### Start Ups
 
 [F6s](f6s.com)
 
 [Angel.co](angel.co)
 
-#Stock Photos for Free
+### Stock Photos for Free
 
 [Jon Yau's Medium Blog | stockphoto.com)](https://medium.com/@Stockphoto.com)
 
@@ -80,7 +81,7 @@ NPR
 
 [Kaboom Pics](http://kaboompics.com/)
 
-#Tech
+### Tech
 
 [Sublime Editor](https://www.sublimetext.com/3)
 
@@ -89,14 +90,14 @@ NPR
 [Facebook Bot Resource](https://wit.ai/blog)
 
 
-#Templates
+### Templates
 
 [HTML5Up](https://html5up.net/)
 
 [Free HTML5](https://freehtml5.co/)
 
 
-#UChicago
+### UChicago
 
 [Polsky Exchange Membership Application](https://www.tfaforms.com/435465)
 
