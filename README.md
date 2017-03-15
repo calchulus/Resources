@@ -100,4 +100,4 @@ NPR
 
 [Polsky Exchange Membership Application] (https://www.tfaforms.com/435465)
 
-[ILC Website] (ilc.uchicago.edu)
+[ILC Website] (www.ilc.uchicago.edu)
