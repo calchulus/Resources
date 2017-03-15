@@ -44,7 +44,10 @@ My favorite things on the web
 
 [Logomakr] (https://logomakr.com/)
 
-[Visage] (visage.co)
+[Visage] (www.visage.co)
+
+News
+NPR
 
 #Payment Services
 [Braintree API] (https://developers.braintreepayments.com/)
