@@ -29,75 +29,75 @@ My favorite things on the web
 
 # Icons
 
-[FlatIcon] (http://www.flaticon.com/)
+[FlatIcon](http://www.flaticon.com/)
 
-[Material Design Icons] (https://material.io/icons/)
+[Material Design Icons](https://material.io/icons/)
 
-[The Noun Project] (https://thenounproject.com/)
+[The Noun Project](https://thenounproject.com/)
 
 
 #Image Design
 
-[Canva] (https://www.canva.com/)
+[Canva](https://www.canva.com/)
 
-[Stencil] (https://getstencil.com/)
+[Stencil](https://getstencil.com/)
 
-[Logomakr] (https://logomakr.com/)
+[Logomakr](https://logomakr.com/)
 
-[Visage] (www.visage.co)
+[Visage](www.visage.co)
 
 News
 NPR
 
 #Payment Services
-[Braintree API] (https://developers.braintreepayments.com/)
+[Braintree API](https://developers.braintreepayments.com/)
 
-[Venmo API] (https://developer.venmo.com/gettingstarted/apipayment)
+[Venmo API](https://developer.venmo.com/gettingstarted/apipayment)
 
 #Photo Editing
 
-[Nik Collection] (https://www.google.com/nikcollection/)
+[Nik Collection](https://www.google.com/nikcollection/)
 
-[Instagram] (instagram.com/calchulus/)
+[Instagram](instagram.com/calchulus/)
 
 #Start Ups
 
-[F6s] (f6s.com)
+[F6s](f6s.com)
 
-[Angel.co] (angel.co)
+[Angel.co](angel.co)
 
 #Stock Photos for Free
 
-[Jon Yau's Medium Blog | stockphoto.com)] (https://medium.com/@Stockphoto.com)
+[Jon Yau's Medium Blog | stockphoto.com)](https://medium.com/@Stockphoto.com)
 
-[Pexels] (https://www.pexels.com/)
+[Pexels](https://www.pexels.com/)
 
-[Unsplash] (https://unsplash.com/)
+[Unsplash](https://unsplash.com/)
 
-[Free for Commercial Use] (http://freeforcommercialuse.net/)
+[Free for Commercial Use](http://freeforcommercialuse.net/)
 
-[Pixabay] (https://pixabay.com/)
+[Pixabay](https://pixabay.com/)
 
-[Kaboom Pics] (http://kaboompics.com/)
+[Kaboom Pics](http://kaboompics.com/)
 
 #Tech
 
-[Sublime Editor] (https://www.sublimetext.com/3)
+[Sublime Editor](https://www.sublimetext.com/3)
 
-[Chatfuel for Facebook Messenger Bots] (https://dashboard.chatfuel.com/#/bots)
+[Chatfuel for Facebook Messenger Bots](https://dashboard.chatfuel.com/#/bots)
 
-[Facebook Bot Resource] (https://wit.ai/blog)
+[Facebook Bot Resource](https://wit.ai/blog)
 
 
 #Templates
 
-[HTML5Up] (https://html5up.net/)
+[HTML5Up](https://html5up.net/)
 
-[Free HTML5] (https://freehtml5.co/)
+[Free HTML5](https://freehtml5.co/)
 
 
 #UChicago
 
-[Polsky Exchange Membership Application] (https://www.tfaforms.com/435465)
+[Polsky Exchange Membership Application](https://www.tfaforms.com/435465)
 
-[ILC Website] (www.ilc.uchicago.edu)
+[ILC Website](www.ilc.uchicago.edu)
