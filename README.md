@@ -1,33 +1,33 @@
 # Resources
 My favorite things on the web
 
-#App Icons
+# App Icons
 
 [Apple iTunes Badge] (https://developer.apple.com/app-store/marketing/guidelines/#downloadOnAppstore)
 
 [Google Play Badge] (https://play.google.com/intl/en_us/badges/)
 
-#Deals
+# Deals
 
 [Slickdeals] (www.slickdeals.net)
 
 [BrokeAssGourmet] (www.brokeassgourmet.com)
 
-#Do Good
+# Do Good
 
 [Tab for a Cause] (http://tab.gladly.io/)
 [Donate a Photo] (http://donateaphoto.com/en_US)
 [FreeRice] (http://freerice.com/#/english-vocabulary/1363)
 
-#Email
+# Email
 
 [ZohoMail] (https://mail.zoho.com/zm/)
 
-#Features
+# Features
 
 [Google Charts] (https://developers.google.com/chart/)
 
-#Icons
+# Icons
 
 [FlatIcon] (http://www.flaticon.com/)
 
