@@ -68,7 +68,7 @@ NPR
 
 #Stock Photos for Free
 
-[Jon Yau's Medium Blog (Owner of stockphoto.com)] (https://medium.com/@Stockphoto.com)
+[Jon Yau's Medium Blog | stockphoto.com)] (https://medium.com/@Stockphoto.com)
 
 [Pexels] (https://www.pexels.com/)
 
