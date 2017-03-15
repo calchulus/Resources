@@ -3,29 +3,29 @@ My favorite things on the web
 
 # App Icons
 
-[Apple iTunes Badge] (https://developer.apple.com/app-store/marketing/guidelines/#downloadOnAppstore)
+[Apple iTunes Badge](https://developer.apple.com/app-store/marketing/guidelines/#downloadOnAppstore)
 
-[Google Play Badge] (https://play.google.com/intl/en_us/badges/)
+[Google Play Badge](https://play.google.com/intl/en_us/badges/)
 
 # Deals
 
-[Slickdeals] (www.slickdeals.net)
+[Slickdeals](www.slickdeals.net)
 
-[BrokeAssGourmet] (www.brokeassgourmet.com)
+[BrokeAssGourmet](www.brokeassgourmet.com)
 
 # Do Good
 
-[Tab for a Cause] (http://tab.gladly.io/)
-[Donate a Photo] (http://donateaphoto.com/en_US)
-[FreeRice] (http://freerice.com/#/english-vocabulary/1363)
+[Tab for a Cause](http://tab.gladly.io/)
+[Donate a Photo](http://donateaphoto.com/en_US)
+[FreeRice](http://freerice.com/#/english-vocabulary/1363)
 
 # Email
 
-[ZohoMail] (https://mail.zoho.com/zm/)
+[ZohoMail](https://mail.zoho.com/zm/)
 
 # Features
 
-[Google Charts] (https://developers.google.com/chart/)
+[Google Charts](https://developers.google.com/chart/)
 
 # Icons
 
