@@ -46,6 +46,8 @@ My favorite things on the web
 
 [Visage](www.visage.co)
 
+[Lunapic](http://www141.lunapic.com/editor/)
+
 News
 NPR
 
