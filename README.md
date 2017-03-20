@@ -83,6 +83,15 @@ NPR
 
 [Kaboom Pics](http://kaboompics.com/)
 
+[Awesome Stock Resources Github Repo](https://github.com/neutraltone/awesome-stock-resources)
+
+[Life of Pix](http://www.lifeofpix.com/)
+
+[Bossfight](https://bossfight.co/)
+
+
+
+
 ### Tech
 
 [Sublime Editor](https://www.sublimetext.com/3)
