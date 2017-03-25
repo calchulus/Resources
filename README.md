@@ -27,13 +27,17 @@ My favorite things on the web
 
 [Google Charts](https://developers.google.com/chart/)
 
-### Icons
+### Fonts & Icons
 
 [FlatIcon](http://www.flaticon.com/)
 
 [Material Design Icons](https://material.io/icons/)
 
 [The Noun Project](https://thenounproject.com/)
+
+[Font Squirrel](https://www.fontsquirrel.com/)
+
+[Google Fonts](https://fonts.google.com/)
 
 
 ### Image Design
