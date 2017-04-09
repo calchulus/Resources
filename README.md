@@ -120,4 +120,4 @@ NPR
 
 [ILC Website](www.ilc.uchicago.edu)
 
-[Polsky 1871 Room Application0(https://polskycenter.wufoo.com/forms/r1hneyh13nroiu/)
+[Polsky 1871 Room Application](https://polskycenter.wufoo.com/forms/r1hneyh13nroiu/)
