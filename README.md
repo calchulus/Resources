@@ -55,6 +55,14 @@ My favorite things on the web
 News
 NPR
 
+### Learn
+
+CSIL Links
+[Latex](https://csil.cs.uchicago.edu/minicourses/LatexIntro.html)
+[Git](https://csil.cs.uchicago.edu/minicourses/Git.html)
+[R](https://csil.cs.uchicago.edu/minicourses/RIntro.html)
+[all](https://csil.cs.uchicago.edu/minicourses.html?ct=t(UCIE_Week_310_10_2016)
+
 ### Payment Services
 
 [Braintree API](https://developers.braintreepayments.com/)
