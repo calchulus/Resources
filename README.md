@@ -58,6 +58,7 @@ NPR
 ### Learn
 
 CSIL Links
+
 [Latex](https://csil.cs.uchicago.edu/minicourses/LatexIntro.html)
 [Git](https://csil.cs.uchicago.edu/minicourses/Git.html)
 [R](https://csil.cs.uchicago.edu/minicourses/RIntro.html)
