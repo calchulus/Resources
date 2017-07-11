@@ -1,3 +1,5 @@
+Check out https://calchulus.github.io/resources-2.0/ for updated format!
+
 # Resources
 My favorite things on the web
 
